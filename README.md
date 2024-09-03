@@ -1,2 +1,2 @@
 # SnowBoarder
-It is a snow board game in which we try to reach the finish point by sliding along the road.
+A simple 2D snowboarding game where we try to reach the finish line by sliding down snowy mountains.
